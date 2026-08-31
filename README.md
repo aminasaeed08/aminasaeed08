@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amina Saeed 👋</h1>
-<h3 align="center">AI Engineer | Generative AI, LLMs & RAG | Agentic AI & Automation Systems</h3>
+<h3 align="center">AI Engineer | Generative AI, Agentic AI & RAG Systems | Automation with n8n</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Automation%20Engineer-99x%20Automation-black?style=flat-square" />
@@ -11,12 +11,13 @@
 
 ### About Me
 
-I'm an AI Automation Engineer at **99x Automation** and a Junior AI Developer at **AI Pinnacle**, building LLM-integrated systems, RAG pipelines, and agentic AI workflows. I design and ship SaaS products end-to-end — from backend architecture to deployment.
+AI Automation Engineer at **99x Automation** and Junior AI Developer at **AI Pinnacle**, building LLM-integrated systems, RAG pipelines, and agentic AI workflows. I design end-to-end automation pipelines — from candidate screening systems to WhatsApp-based customer support platforms — combining LLMs, retrieval, and workflow orchestration.
 
-- 🔭 **Currently working on:** agentic AI workflows and multi-tenant SaaS automation tooling
-- 🌱 **Currently exploring:** advanced RAG architectures and multi-agent orchestration
-- 🎓 **Education:** BS in Artificial Intelligence — NUML Islamabad
-- 💬 **Ask me about:** LangChain, LangGraph, RAG pipelines, n8n automation, FastAPI
+- 🔭 **Currently working on:** a production-ready AI-powered WhatsApp automation platform (Meta WhatsApp API + RAG)
+- 🌱 **Currently exploring:** Agentic AI architectures and multilingual LLM pipelines
+- 🎓 **Education:** BS in Artificial Intelligence — NUML Islamabad (GPA 3.52/4.00)
+- 📜 **Certified in:** Agentic AI with LangChain & LangGraph (IBM), Generative AI (Google Cloud)
+- 💬 **Ask me about:** RAG systems, LangChain/LangGraph, n8n automation, LLM integration
 
 ---
 
@@ -24,17 +25,30 @@ I'm an AI Automation Engineer at **99x Automation** and a Junior AI Developer at
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+
+---
+
+### 💼 Experience
+
+| Role | Company | Duration |
+|---|---|---|
+| AI Automation Engineer | 99x Automation, Islamabad | Jun 2026 – Present |
+| Junior AI Developer | AI Pinnacle, NASTP Rawalpindi | Jan 2026 – Present |
+| AI/ML & Backend Intern | Siber Koza, NASTP Islamabad | Apr 2025 – Jun 2025 |
+| AI/ML Engineer | ABT IT Innovations Pvt Ltd, Islamabad | Aug 2024 – Oct 2024 |
 
 ---
 
@@ -43,9 +57,12 @@ I'm an AI Automation Engineer at **99x Automation** and a Junior AI Developer at
 <!-- Replace # with your actual repo links once pushed -->
 | Project | Description | Stack |
 |---|---|---|
-| **[HR Recruitment Automation](#)** | Automates parts of the hiring pipeline — resume intake, candidate screening, and shortlisting | LangChain, n8n, FastAPI |
-| **[AI Voice Agent](#)** | A voice-driven conversational AI agent for automated interactions and task handling | LangGraph, OpenAI API |
-| **[Hidayah Tech Publisher](#)** | A publishing platform built with modern web tooling for managing and delivering content | Next.js, Prisma |
+| **[Recruitment Screening Automation](#)** | End-to-end n8n pipeline automating resume parsing and questionnaire delivery for consistent, unbiased candidate screening | n8n, LLMs |
+| **[RAG-Based AI Agent for Restaurant Order Taking](#)** | Conversational agent that takes orders via natural language, retrieves menu data, and manages customizations | RAG, LangChain |
+| **[Hidayah Tech Publisher](#)** | AI system converting Islamic audio lectures into structured multilingual (Urdu/English/Arabic) digital content, with hallucination-reduction techniques | Speech-to-text, NLP, LLMs |
+| **[AI-Based Personalized Messaging Automation](#)** | Automated system generating and delivering personalized motivational content based on user preferences and scheduling | n8n, LLMs |
+| **[AI-Based FIFA Playing System](#)** | Autonomous FIFA-playing agent using CNNs and reinforcement learning, with custom video/frame data pipeline | CNN, Reinforcement Learning |
+| **[AQI Prediction](#)** | Air quality prediction system using hourly weather data, deployed as an interactive Streamlit app | ML, Streamlit |
 
 ---
 
@@ -60,9 +77,7 @@ I'm an AI Automation Engineer at **99x Automation** and a Junior AI Developer at
 
 ### 📫 Let's Connect
 
-<!-- Replace # with your real links -->
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/amina-saeed-752040240"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:Aminasaeed080@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
