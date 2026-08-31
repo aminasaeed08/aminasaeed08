@@ -40,12 +40,12 @@ I'm an AI Automation Engineer at **99x Automation** and a Junior AI Developer at
 
 ### 📌 Featured Projects
 
-<!-- Replace with your actual pushed projects -->
+<!-- Replace # with your actual repo links once pushed -->
 | Project | Description | Stack |
 |---|---|---|
-| **[Project Name](#)** | One-line description of what it solves | LangGraph, FastAPI |
-| **[Project Name](#)** | One-line description of what it solves | LangChain, Qdrant |
-| **[Project Name](#)** | One-line description of what it solves | n8n |
+| **[HR Recruitment Automation](#)** | Automates parts of the hiring pipeline — resume intake, candidate screening, and shortlisting | LangChain, n8n, FastAPI |
+| **[AI Voice Agent](#)** | A voice-driven conversational AI agent for automated interactions and task handling | LangGraph, OpenAI API |
+| **[Hidayah Tech Publisher](#)** | A publishing platform built with modern web tooling for managing and delivering content | Next.js, Prisma |
 
 ---
 
