@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amina Saeed 👋</h1>
-<h3 align="center">AI Engineer | Generative AI, Agentic AI & RAG Systems | Automation with n8n</h3>
+<h3 align="center">AI Engineer | Generative AI, Agentic AI & RAG Systems | LLM-Powered Automation</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Automation%20Engineer-99x%20Automation-black?style=flat-square" />
