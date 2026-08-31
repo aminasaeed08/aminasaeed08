@@ -68,8 +68,8 @@ AI Automation Engineer at **99x Automation**, building LLM-integrated systems, R
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminasaeed08&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminasaeed08&hide_border=true" height="165" />
+  <img src="https://img.shields.io/github/followers/aminasaeed08?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/aminasaeed08&label=Public%20Repos&query=public_repos&style=flat-square" />
 </p>
 
 ---
