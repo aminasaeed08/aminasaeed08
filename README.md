@@ -1,17 +1,4 @@
-<h1 align="center">Hi, I'm Amina Saeed 👋</h1>
-
-<h3 align="center">AI Engineer | Generative AI • LLMs • RAG • Agentic AI</h3>
-
-<p align="center">
-  Building intelligent systems, AI-powered automation, and LLM applications.
-</p>
-
-<p align="center">
-  <a href="https://github.com/aminasaeed08">
-    <img src="https://img.shields.io/badge/GitHub-Amina%20Saeed-181717?style=flat-square&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-374151?style=flat-square&logo=googlemaps&logoColor=white" />
-</p>
+<h1 align="center">Hi, I'm Amina Saeed 👋</h1> <h3 align="center">AI Engineer | Generative AI, Agentic AI & RAG Systems | LLM-Powered Automation</h3> <p align="center"> <img src="https://img.shields.io/badge/AI%20Automation%20Engineer-99x%20Automation-1f2937?style=flat-square" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Islamabad,%20Pakistan-374151?style=flat-square" /> </p>
 
 
 ### About Me
