@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Automation%20Engineer-99x%20Automation-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Junior%20AI%20Developer-AI%20Pinnacle-black?style=flat-square" />
   <img src="https://img.shields.io/badge/Based%20in-Islamabad%2C%20Pakistan-black?style=flat-square" />
 </p>
 
@@ -11,9 +10,9 @@
 
 ### About Me
 
-AI Automation Engineer at **99x Automation** and Junior AI Developer at **AI Pinnacle**, building LLM-integrated systems, RAG pipelines, and agentic AI workflows. I design end-to-end automation pipelines — from candidate screening systems to WhatsApp-based customer support platforms — combining LLMs, retrieval, and workflow orchestration.
+AI Automation Engineer at **99x Automation**, building LLM-integrated systems, RAG pipelines, and agentic AI workflows. I design end-to-end automation pipelines — from candidate screening systems to AI-powered messaging platforms — combining LLMs, retrieval, and workflow orchestration. Previously, I worked as a Junior AI Developer at **AI Pinnacle**, architecting a production-ready WhatsApp automation platform using RAG-based workflows.
 
-- 🔭 **Currently working on:** a production-ready AI-powered WhatsApp automation platform (Meta WhatsApp API + RAG)
+- 🔭 **Currently working on:** AI-powered recruitment and automation workflows at 99x Automation
 - 🌱 **Currently exploring:** Agentic AI architectures and multilingual LLM pipelines
 - 🎓 **Education:** BS in Artificial Intelligence — NUML Islamabad (GPA 3.52/4.00)
 - 📜 **Certified in:** Agentic AI with LangChain & LangGraph (IBM), Generative AI (Google Cloud)
@@ -46,7 +45,7 @@ AI Automation Engineer at **99x Automation** and Junior AI Developer at **AI Pin
 | Role | Company | Duration |
 |---|---|---|
 | AI Automation Engineer | 99x Automation, Islamabad | Jun 2026 – Present |
-| Junior AI Developer | AI Pinnacle, NASTP Rawalpindi | Jan 2026 – Present |
+| Junior AI Developer | AI Pinnacle, NASTP Rawalpindi | Feb 2026 – Jun 2026 |
 | AI/ML & Backend Intern | Siber Koza, NASTP Islamabad | Apr 2025 – Jun 2025 |
 | AI/ML Engineer | ABT IT Innovations Pvt Ltd, Islamabad | Aug 2024 – Oct 2024 |
 
