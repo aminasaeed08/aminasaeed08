@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amina Saeed 👋</h1>
-<h3 align="center">AI Engineer | Generative AI, Agentic AI & RAG Systems | LLM-Powered Automation</h3>
+<h3 align="center">AI Engineer | Generative AI, Agentic AI & RAG Systems | AI Automation</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Automation%20Engineer-99x%20Automation-black?style=flat-square" />
@@ -35,7 +35,6 @@ AI Automation Engineer at **99x Automation**, building LLM-integrated systems, R
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
