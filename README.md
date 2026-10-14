@@ -11,7 +11,7 @@
 
 ### About Me
 
-AI Automation Engineer at **99x Automation**, building LLM-integrated systems, RAG pipelines, and agentic AI workflows. I design end-to-end automation pipelines — from candidate screening systems to AI-powered messaging platforms — combining LLMs, retrieval, and workflow orchestration. Previously, I worked as a Junior AI Developer at **AI Pinnacle**, architecting a production-ready WhatsApp automation platform using RAG-based workflows.
+AI Engineer , building LLM-integrated systems, RAG pipelines, and agentic AI workflows. I design end-to-end automation pipelines — from candidate screening systems to AI-powered messaging platforms — combining LLMs, retrieval, and workflow orchestration. Previously, I worked as a Junior AI Developer at **AI Pinnacle**, architecting a production-ready WhatsApp automation platform using RAG-based workflows.
 
 - 🔭 **Currently working on:** AI-powered recruitment and automation workflows at 99x Automation
 - 🌱 **Currently exploring:** Agentic AI architectures and multilingual LLM pipelines
@@ -44,7 +44,7 @@ AI Automation Engineer at **99x Automation**, building LLM-integrated systems, R
 
 | Role | Company | Duration |
 |---|---|---|
-| AI Automation Engineer | 99x Automation, Islamabad | Jun 2026 – Present |
+| AI Automation Engineer | 99x Automation, Islamabad | Jun 2026 – Oct 2026 |
 | Junior AI Developer | AI Pinnacle, NASTP Rawalpindi | Feb 2026 – Jun 2026 |
 | AI/ML & Backend Intern | Siber Koza, NASTP Islamabad | Apr 2025 – Jun 2025 |
 | AI/ML Engineer | ABT IT Innovations Pvt Ltd, Islamabad | Aug 2024 – Oct 2024 |
